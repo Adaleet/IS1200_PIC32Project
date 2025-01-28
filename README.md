@@ -19,7 +19,8 @@ Key features include:
 ## Technologies Used
 - **Programming Languages**: C and Assembly.
 - **Microcontroller**: ChipKIT Uno32.
-- **Development Environment**: MPLAB X Integrated Development Environment (IDE) with the XC32 Compiler: [See following reference manual](https://ww1.microchip.com/downloads/en/DeviceDoc/61146B.pdf
+- **Development Environment**: MPLAB X Integrated Development Environment (IDE) with the XC32 Compiler:
+[See following reference manual](https://ww1.microchip.com/downloads/en/DeviceDoc/61146B.pdf
 
 ## How to Play
 1. Power on the ChipKIT Uno32 microcontroller.
